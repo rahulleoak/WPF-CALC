@@ -1,0 +1,11 @@
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\obj\x86\Debug\MainWindow.baml
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\obj\x86\Debug\MainWindow.g.cs
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\obj\x86\Debug\App.g.cs
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\obj\x86\Debug\WPFCalc_MarkupCompile.cache
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\obj\x86\Debug\WPFCalc.g.resources
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\obj\x86\Debug\WPFCalc.Properties.Resources.resources
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\obj\x86\Debug\WPFCalc.csproj.GenerateResource.Cache
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\bin\Debug\WPFCalc.exe
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\bin\Debug\WPFCalc.pdb
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\obj\x86\Debug\WPFCalc.exe
+Z:\17PW29\SEM4\Windows Lab\Package\WPFCalc\WPFCalc\obj\x86\Debug\WPFCalc.pdb
